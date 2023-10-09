@@ -3,7 +3,7 @@
 
 - I am eager to learn more and work hard for becoming the best. 
 
--I am a team member of IISc iGEM team 2023-24 as a "Rising Dry Lab" member.
+- I am a team member of IISc iGEM team 2023-24 as a "Rising Dry Lab" member.
 
 
 - I have worked on Docker and created repositories and images for iGEM team IISc. link: https://hub.docker.com/search?q=anirudhgupta07
