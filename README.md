@@ -8,7 +8,13 @@
 
 - 🌱 I’m currently learning **AI and other Platforms related to it**
 
+- 💬 Ask me about **Music, Math, Me**
+
 - ⚡ Fun fact **I don't like peanut butter although I love peanuts.**
+
+- **Music is the soul of life. It connects our hearts with our actions.**
+
+- I work Hard for me, my family and my team! I just feel enjoyment in working!!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
