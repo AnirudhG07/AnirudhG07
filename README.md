@@ -20,7 +20,7 @@
 # Project Works
 
 - LipSyncing Project: Connect any Text-Generation AI like gpt, bard, llama,etc. on my code and NOW it has a face with mouth movements and a voice.
-  <br> I would Love if Google, Apple, other Companies takes my project and make a new feature! A Brand new Feature. 
+  <br> It would be a great new feature to various companies, brands, AI models! A Brand new Feature. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
