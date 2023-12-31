@@ -21,7 +21,7 @@
 
 - **LipSyncing Project**: Connect any Text-Generation AI like gpt, bard, llama,etc. on my code and NOW it has a face with mouth movements and a voice.
   <br> It would be a great new feature to various companies, brands, AI models! A Brand new Feature.
-- **Inventory Management Website**: Created a website for company named Shemeka Industries Pvt. Ltd. The website controls the SKU item's updation, addition and deletion, and manages the warehouse of products through this website. They can also systemise Orders in Inventory. The website is launched privately with `MySQL` server used as online database. 
+- **Inventory Management Website**: Created a website for company named Shemeka Industries Pvt. Ltd. The website controls the SKU item's updation, addition and deletion, and manages the warehouse, orders through this website. It is an Open for all to use and make thier own.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
