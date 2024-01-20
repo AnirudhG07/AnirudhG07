@@ -1,16 +1,16 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hey, I'm Anirudh Gupta</h1>
 <h3 align="center">A student at IISc Bangalore, Btech Mathematics & Computing</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding All the way" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhg07&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhg07" /> </p>
 
-- 🔭 I’m currently working on **GenerativeAI and Neural Networks**
+- 🔭 I’m currently working on **GenerativeAI, Neural Networks and iGEM.**
 
 - 🌱 I’m currently learning **AI, DeepLearning, and LLM's**
 
 - 💬 Ask me about **Music, Math, Me**
 
-- ⚡ Fun fact **I don't like peanut butter although I love peanuts.**
+- ⚡ Fun fact, Anime watchers hate people who say "Anime is Cartoon". Atleast I do!
 
 - **Music is the soul of life. It connects our hearts with our actions.**
 
