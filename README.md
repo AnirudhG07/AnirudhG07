@@ -1,12 +1,12 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hey, I'm Anirudh Gupta</h1>
-<h3 align="center">A student at IISc Bangalore, Btech Mathematics & Computing</h3>
+<h3 align="center">A student at IISc Bangalore, BTech Mathematics & Computing</h3>
 <img align="right" alt="Coding All the way" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhg07&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhg07" /> </p>
 
-- 🔭 I’m currently working on **GenerativeAI, Neural Networks and iGEM.**
+- 🔭 I’m currently working on **GenerativeAI, Automated Theorem Proving in Mathematics, iGEM.**
 
-- 🌱 I’m currently learning **AI, DeepLearning, and LLM's**
+- 🌱 I’m currently learning **AI, LLM's and Lean**
 
 - 💬 Ask me about **Music, Math, Me**
 
@@ -20,8 +20,12 @@
 # Project Works
 
 - **LipSyncing Project**: Connect any Text-Generation AI like gpt, bard, llama,etc. on my code and NOW it has a face with mouth movements and a voice.
-  <br> It would be a great new feature to various companies, brands, AI models! A Brand new Feature.
+  <br> It would be a great new feature to various companies, brands, AI models! A Brand new Feature.<br>
+
+
+  **Terminal-Robot**: A version of this I created using robotic images and voice. I added this to terminal and alias 'terminal-robot' which speaks and moves its mouth on input sentence. Check out my github repository and get yourself your own terminal-robot.
 - **Inventory Management Website**: Created a website for company named Shemeka Industries Pvt. Ltd. The website controls the SKU item's updation, addition and deletion, and manages the warehouse, orders through this website. It is an Open for all to use and make thier own.
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
