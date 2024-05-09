@@ -21,9 +21,8 @@
 
 - **LipSyncing Project**: Connect any Text-Generation AI like gpt, bard, llama,etc. on my code and NOW it has a face with mouth movements and a voice.
   <br> It would be a great new feature to various companies, brands, AI models! A Brand new Feature.<br>
-
-
-  **Terminal-Robot**: A version of this I created using robotic images and voice. I added this to terminal and alias 'terminal-robot' which speaks and moves its mouth on input sentence. Check out my github repository and get yourself your own terminal-robot.
+- **Cheatshh**: It is a interactive command-line tool for storing your command for command-line, with custom groups of commands. You can add, edit, delete groups and commands freely. It provides a great TUI powered by fzf and whiptail. Now you don't have to remember so many commands, simply enter a command in your Cheatshh.
+- **Terminal-Robot**: A version of this I created using robotic images and voice. I added this to terminal and alias 'terminal-robot' which speaks and moves its mouth on input sentence. Check out my github repository and get yourself your own terminal-robot.
 - **Inventory Management Website**: Created a website for company named Shemeka Industries Pvt. Ltd. The website controls the SKU item's updation, addition and deletion, and manages the warehouse, orders through this website. It is an Open for all to use and make thier own.
   
 
