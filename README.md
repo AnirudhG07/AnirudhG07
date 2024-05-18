@@ -17,8 +17,18 @@
 - I work Hard for me, my family and my team! I just feel enjoyment in working!!!
 <br> 
 
-# Project Works
+# My Creativity and Self-Devs
+<a href="https://github.com/AnirudhG07/Cheatshh"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=Cheatshh&theme=tokyonight" alt="Anirudh/Cheatshh"></a>
+<a href="https://github.com/AnirudhG07/terminal-robot"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=terminal-robot&theme=tokyonight"></a>
 
+<details open> 
+  <summary><h2>    and more...</h2></summary>
+  <p align="left">
+<a href="https://github.com/AnirudhG07/LipSyncing-Project"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=LipSyncing-Project&theme=tokyonight"></a>
+<a href="https://github.com/AnirudhG07/Inventory-Management-Website"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=Inventory-Management-Website&theme=tokyonight"></a>
+</p>
+<a href="https://github.com/AnirudhG07?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
 - **LipSyncing Project**: Connect any Text-Generation AI like gpt, bard, llama,etc. on my code and NOW it has a face with mouth movements and a voice.
   <br> It would be a great new feature to various companies, brands, AI models! A Brand new Feature.<br>
 - **Cheatshh**: It is a interactive command-line tool for storing your command for command-line, with custom groups of commands. You can add, edit, delete groups and commands freely. It provides a great TUI powered by fzf and whiptail. Now you don't have to remember so many commands, simply enter a command in your Cheatshh.
@@ -37,9 +47,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudhg07&show_icons=true&locale=en&layout=compact&theme=algolia" alt="anirudhg07" /></p>
+# Github love!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudhg07&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anirudhg07" /></p>
 
-![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirudhG07&show_icons=true&theme=algolia)
+![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirudhG07&show_icons=true&theme=tokyonight)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhg07&show_icons=true&locale=en&layout=compact&theme=algolia" alt="anirudhg07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhg07&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anirudhg07" /></p>
