@@ -17,11 +17,25 @@
 - I work Hard for me, my family and my team! I just feel enjoyment in working!!!
 <br> 
 
+# My dev preferences
+```javascript
+const anirudh = {
+  OS : [MacOS, Linux],
+  Terminal_Emulator: [iTerm, Warp, edex-ui], //edex-ui ROCKS!
+  Shell: [zsh], // powered by oh-my-zsh and p10k!,
+  Code-Editors: [NeoVim, VS Code], // depends on the language
+  Languages: [Python, Go, C, Java, JS, `English`, `Hindi`], // LOL
+  Hobbies: "I love Terminal, CLI and TUI's. I have tons of TUI's and if something I want doesn't exist, well I am learning to make `em",
+  Fav_TUI's: [Lazygit, Taskwarrior, Cheatshh] // Just my life saviour
+}
+```
+I wanna explore more and love doing computer coding, math, and make Terminal cooler and cooler!
+
 # My Creativity and Self-Devs
 <a href="https://github.com/AnirudhG07/Cheatshh"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=Cheatshh&theme=tokyonight" alt="Anirudh/Cheatshh"></a>
 <a href="https://github.com/AnirudhG07/terminal-robot"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=terminal-robot&theme=tokyonight"></a>
 
-<details open> 
+<details> 
   <summary><h2>    and more...</h2></summary>
   <p align="left">
 <a href="https://github.com/AnirudhG07/LipSyncing-Project"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=LipSyncing-Project&theme=tokyonight"></a>
@@ -29,13 +43,22 @@
 </p>
 <a href="https://github.com/AnirudhG07?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
-- **LipSyncing Project**: Connect any Text-Generation AI like gpt, bard, llama,etc. on my code and NOW it has a face with mouth movements and a voice.
+<!-- - **LipSyncing Project**: Connect any Text-Generation AI like gpt, bard, llama,etc. on my code and NOW it has a face with mouth movements and a voice.
   <br> It would be a great new feature to various companies, brands, AI models! A Brand new Feature.<br>
 - **Cheatshh**: It is a interactive command-line tool for storing your command for command-line, with custom groups of commands. You can add, edit, delete groups and commands freely. It provides a great TUI powered by fzf and whiptail. Now you don't have to remember so many commands, simply enter a command in your Cheatshh.
 - **Terminal-Robot**: A version of this I created using robotic images and voice. I added this to terminal and alias 'terminal-robot' which speaks and moves its mouth on input sentence. Check out my github repository and get yourself your own terminal-robot.
 - **Inventory Management Website**: Created a website for company named Shemeka Industries Pvt. Ltd. The website controls the SKU item's updation, addition and deletion, and manages the warehouse, orders through this website. It is an Open for all to use and make thier own.
-  
+-->
 
+# My main Colab-Projects and Open Source Contributions
+<a href="https://github.com/mrigankpawagi/HinglishEval"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mrigankpawagi&repo=HinglishEval&theme=tokyonight"></a>
+<a href="https://github.com/tldr-pages/tldr"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tldr-pages&repo=tldr&theme=tokyonight"></a>
+<a href="https://github.com/databasedIISc/CTF-Quest"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=databasedIISc&repo=CTF-Quest&theme=tokyonight"></a>
+<details> 
+  <summary><h2>    and more...</h2></summary>
+  <p align="left">
+
+</details>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anirudh gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh gupta" height="30" width="40" /></a>
