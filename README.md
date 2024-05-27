@@ -4,17 +4,15 @@
 <img align="right" alt="Coding All the way" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhg07&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhg07" /> </p>
 
-- 🔭 I’m currently working on **GenerativeAI, Automated Theorem Proving in Mathematics, iGEM.**
+- 🔭 I’m currently working on **GenerativeAI, Automated Theorem Proving in Mathematics, iGEM and Terminal Tools**
 
 - 🌱 I’m currently learning **AI, LLM's and Lean**
-
+  
 - 💬 Ask me about **Music, Math, Me**
 
 - ⚡ Fun fact, Anime watchers hate people who say "Anime is Cartoon". Atleast I do!
 
 - **Music is the soul of life. It connects our hearts with our actions.**
-
-- I work Hard for me, my family and my team! I just feel enjoyment in working!!!
 <br> 
 
 # My dev preferences
