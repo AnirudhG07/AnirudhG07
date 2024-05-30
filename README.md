@@ -1,4 +1,3 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hey, I'm Anirudh Gupta</h1>
 <h3 align="center">A student at IISc Bangalore, BTech Mathematics & Computing</h3>
 <img align="right" alt="Coding All the way" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
