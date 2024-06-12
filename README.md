@@ -23,7 +23,8 @@ const anirudh = {
   Code-Editors: [NeoVim, VS Code], // depends on the language
   Languages: [Python, Go, C, Java, JS, `English`, `Hindi`], // LOL
   Hobbies: "I love Terminal, CLI and TUI's. I have tons of TUI's and if something I want doesn't exist, well I am learning to make `em",
-  Fav_TUI's: [Lazygit, Taskwarrior, Cheatshh] // Just my life saviour
+  Fav_TUI's: [Lazygit, Taskwarrior] // Just my life saviour
+  My-Creation's: [Cheatshh, Typeinc + Typeinc-mini]
 }
 ```
 I wanna explore more and love doing computer coding, math, and make Terminal cooler and cooler!
