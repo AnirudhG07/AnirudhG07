@@ -22,7 +22,8 @@ const anirudh = {
   Shell: [zsh], // powered by oh-my-zsh and p10k!,
   Code-Editors: [NeoVim, VS Code], // depends on the language
   Languages: [Python, Go, C, Java, JS, `English`, `Hindi`], // LOL
-  Hobbies: "I love Terminal, CLI and TUI's. I have tons of TUI's and if something I want doesn't exist, well I am learning to make `em",
+  Hobbies: ["I love Terminal, CLI and TUI's. I have tons of TUI's and if something I want doesn't exist, well I am learning to make 'em",
+             "I also love doing CTF's when I feel like doing."],
   Fav_TUIs: [Lazygit, Taskwarrior], // Just my life saviour
   My-Creation's: [Cheatshh, Typeinc + Typeinc-mini]
 }
