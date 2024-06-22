@@ -44,15 +44,27 @@ I wanna explore more and love doing computer coding, math, and make Terminal coo
 <a href="https://github.com/AnirudhG07?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-# My main Colab-Projects and Open Source Contributions
+# My main Colab-Projects 
 <a href="https://github.com/mrigankpawagi/HinglishEval"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mrigankpawagi&repo=HinglishEval&theme=tokyonight"></a>
-<a href="https://github.com/tldr-pages/tldr"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tldr-pages&repo=tldr&theme=tokyonight"></a>
 <a href="https://github.com/databasedIISc/CTF-Quest"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=databasedIISc&repo=CTF-Quest&theme=tokyonight"></a>
 <details> 
   <summary><h2>    and more...</h2></summary>
   <p align="left">
-<a href="https://github.com/joaomatossilva/DateTimeExtensions"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomatossilva&repo=DateTimeExtensions&theme=tokyonight"></a>
+
 <a href="https://github.com/IISc-Software-iGEM/Ion-Channel-NCC"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=IISc-Software-iGEM&repo=Ion-Channel-NCC&theme=tokyonight"></a>
+</details>
+
+# My Open Source Contributions
+<a href="https://github.com/tldr-pages/tldr"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tldr-pages&repo=tldr&theme=tokyonight"></a>
+<a href="https://github.com/joaomatossilva/DateTimeExtensions"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomatossilva&repo=DateTimeExtensions&theme=tokyonight"></a>
+
+<details> 
+  <summary><h2>    and more...</h2></summary>
+  <p align="left">
+
+<a href="https://github.com/toolleeo/cli-apps"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=toolleeo&repo=cli-apps&theme=tokyonight"></a>
+<a href="https://github.com/rothgar/awesome-tuis"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rothgar&repo=awesome-tuis&theme=tokyonight"></a>
+
 </details>
 
 <h3 align="left">Connect with me:</h3>
