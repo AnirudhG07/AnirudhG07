@@ -32,12 +32,14 @@ I wanna explore more and love doing computer coding, math, and make Terminal coo
 
 # My Creativity and Self-Devs
 <a href="https://github.com/AnirudhG07/Cheatshh"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=Cheatshh&theme=tokyonight" alt="Anirudh/Cheatshh"></a>
+<a href="https://github.com/AnirudhG07/cheatshh.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=cheatshh.yazi&theme=tokyonight" alt="Anirudh/cheatshh.yazi"></a>
 <a href="https://github.com/AnirudhG07/Typeinc"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=Typeinc&theme=tokyonight"></a>
-<a href="https://github.com/AnirudhG07/terminal-robot"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=terminal-robot&theme=tokyonight"></a>
+<a href="https://github.com/AnirudhG07/zsh.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=zsh.yazi&theme=tokyonight"></a>
 
 <details> 
   <summary><h2>    and more...</h2></summary>
   <p align="left">
+<a href="https://github.com/AnirudhG07/terminal-robot"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=terminal-robot&theme=tokyonight"></a>
 <a href="https://github.com/AnirudhG07/LipSyncing-Project"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=LipSyncing-Project&theme=tokyonight"></a>
 <a href="https://github.com/AnirudhG07/Inventory-Management-Website"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=Inventory-Management-Website&theme=tokyonight"></a>
 </p>
@@ -56,15 +58,14 @@ I wanna explore more and love doing computer coding, math, and make Terminal coo
 
 # My Open Source Contributions
 <a href="https://github.com/tldr-pages/tldr"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tldr-pages&repo=tldr&theme=tokyonight"></a>
-<a href="https://github.com/joaomatossilva/DateTimeExtensions"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomatossilva&repo=DateTimeExtensions&theme=tokyonight"></a>
-
+<a href="https://github.com/yazi-rs/yazi-rs.github.io"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=yazi-rs&repo=yazi-rs.github.io&theme=tokyonight"></a>
 <details> 
   <summary><h2>    and more...</h2></summary>
   <p align="left">
 
 <a href="https://github.com/toolleeo/cli-apps"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=toolleeo&repo=cli-apps&theme=tokyonight"></a>
 <a href="https://github.com/rothgar/awesome-tuis"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rothgar&repo=awesome-tuis&theme=tokyonight"></a>
-
+<a href="https://github.com/joaomatossilva/DateTimeExtensions"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomatossilva&repo=DateTimeExtensions&theme=tokyonight"></a>
 </details>
 
 <h3 align="left">Connect with me:</h3>
