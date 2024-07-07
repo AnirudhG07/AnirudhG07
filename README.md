@@ -47,7 +47,7 @@ I wanna explore more and love doing computer coding, math, and make Terminal coo
 </details>
 
 # My main Colab-Projects 
-<a href="https://github.com/mrigankpawagi/HinglishEval"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mrigankpawagi&repo=HinglishEval&theme=tokyonight"></a>
+<a href="https://github.com/siddhartha-gadgil/LeanAide"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhartha-gadgil&repo=LeanAide&theme=tokyonight"></a>
 <a href="https://github.com/databasedIISc/CTF-Quest"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=databasedIISc&repo=CTF-Quest&theme=tokyonight"></a>
 <details> 
   <summary><h2>    and more...</h2></summary>
