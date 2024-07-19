@@ -34,16 +34,25 @@ I wanna explore more and love doing computer coding, math, and make Terminal coo
 <a href="https://github.com/AnirudhG07/Cheatshh"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=Cheatshh&theme=tokyonight" alt="Anirudh/Cheatshh"></a>
 <a href="https://github.com/AnirudhG07/cheatshh.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=cheatshh.yazi&theme=tokyonight" alt="Anirudh/cheatshh.yazi"></a>
 <a href="https://github.com/AnirudhG07/Typeinc"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=Typeinc&theme=tokyonight"></a>
-<a href="https://github.com/AnirudhG07/zsh.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=zsh.yazi&theme=tokyonight"></a>
+<a href="https://github.com/AnirudhG07/archivemount.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=archivemount.yazi&theme=tokyonight"></a>
 
 <details> 
   <summary><h2>    and more...</h2></summary>
   <p align="left">
 <a href="https://github.com/AnirudhG07/terminal-robot"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=terminal-robot&theme=tokyonight"></a>
+<a href="https://github.com/AnirudhG07/morseet"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=morseet&theme=tokyonight"></a>
 <a href="https://github.com/AnirudhG07/LipSyncing-Project"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=LipSyncing-Project&theme=tokyonight"></a>
 <a href="https://github.com/AnirudhG07/Inventory-Management-Website"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=Inventory-Management-Website&theme=tokyonight"></a>
 </p>
 <a href="https://github.com/AnirudhG07?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+      <details> 
+  <summary><h2> yazi plugins </h2></summary>
+  <p align="left">
+    <a href="https://github.com/AnirudhG07/mactags.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=mactags.yazi&theme=tokyonight"></a>
+    <a href="https://github.com/AnirudhG07/nbpreview.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=nbpreview.yazi&theme=tokyonight"></a>
+    <a href="https://github.com/AnirudhG07/custom-shell.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=custom-shell.yazi&theme=tokyonight"></a>
+  </p>
+    </details>
 </details>
 
 # My main Colab-Projects 
