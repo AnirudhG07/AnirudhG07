@@ -16,15 +16,15 @@
 # My dev preferences
 ```javascript
 const anirudh = {
-  OS : [MacOS, Linux],
-  Terminal_Emulator: [iTerm, Warp, edex-ui], //edex-ui ROCKS!
-  Shell: [zsh], // powered by oh-my-zsh and p10k!,
-  Code-Editors: [NeoVim, VS Code], // depends on the language
-  Languages: [Python, Go, C, Java, JS, `English`, `Hindi`], // LOL
-  Hobbies: ["I love Terminal, CLI and TUI's. I have tons of TUI's and if something I want doesn't exist, well I am learning to make 'em",
+  os : ['MacOS', 'Linux'],
+  terminal_emulator: ['iTerm', 'WezTerm', 'edex-ui'], //edex-ui ROCKS!
+  shell: ['zsh'], // powered by oh-my-zsh and p10k!,
+  code_editors: ['NeoVim', 'VS Code'], // VS Code with NeoVim extension :)
+  languages: ['Python', 'Go', 'C', 'Java', 'JS', '`English`', '`Hindi`'], // LOL
+  hobbies: ["I love Terminal, CLI and TUI's. I have tons of TUI's and if something I want doesn't exist, well I am learning to make 'em",
              "I also love doing CTF's when I feel like doing."],
-  Fav_TUIs: [Lazygit, Taskwarrior, Yazi], // Just my life saviour
-  My-Creation's: [Cheatshh, Typeinc + Typeinc-mini]
+  fav_tuis: ['Lazygit', 'Taskwarrior', 'Yazi'], // Just my life saviour
+  my_creation's: ['Cheatshh', 'Typeinc + Typeinc-mini', 'morseet', 'ntfyme']
 }
 ```
 I wanna explore more and love doing computer coding, math, and make Terminal cooler and cooler!
