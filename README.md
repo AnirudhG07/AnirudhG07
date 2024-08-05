@@ -48,6 +48,7 @@ I wanna explore more and love doing computer coding, math, and make Terminal coo
   <summary><h2> yazi plugins </h2></summary>
   <p align="left">
     <a href="https://github.com/AnirudhG07/mactags.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=mactags.yazi&theme=tokyonight"></a>
+    <a href="https://github.com/AnirudhG07/rich-preview.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=rich-preview.yazi&theme=tokyonight"></a>
     <a href="https://github.com/AnirudhG07/nbpreview.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=nbpreview.yazi&theme=tokyonight"></a>
     <a href="https://github.com/AnirudhG07/custom-shell.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=custom-shell.yazi&theme=tokyonight"></a>
     <a href="https://github.com/AnirudhG07/cheatshh.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=cheatshh.yazi&theme=tokyonight" alt="Anirudh/cheatshh.yazi"></a>
