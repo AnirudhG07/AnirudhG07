@@ -11,6 +11,7 @@
 - I am currently working on AutoTA, making Yazi Plugins and supporting it all the way, and learning GO!
 - I am not funny at all, cause my jokes are nerdy and that too bad. 
 
+I sometimes write some blogs about my work and interests, check them out at: https://anirudhg07.hashnode.dev
 <br> 
 
 # My dev preferences
