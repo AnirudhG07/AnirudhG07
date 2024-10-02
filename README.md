@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhg07&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhg07" /> </p>
 
 - I am a student of Indian Institute of Science, Bengaluru.
-- I like research but do Command line tools dev and customising them more and more here and there and my hobby!
-- I am still a UG and trying my best to do as much as I can.
-- I am currently working on AutoTA, making Yazi Plugins and supporting it all the way, and learning GO!
+- I like to do research. As a hobby, I like to do command line tools dev and customising them more and more here and there!
+- I am a UG and trying my best to do as much as I can.
+- I am currently working on AutoTA, making Yazi Plugins and supporting it all the way, and learning Rust!
 - I am not funny at all, cause my jokes are nerdy and that too bad. 
 
 I sometimes write some blogs about my work and interests, check them out at: https://anirudhg07.hashnode.dev
@@ -34,12 +34,11 @@ I wanna explore more and love doing computer coding, math, and make Terminal coo
 <a href="https://github.com/AnirudhG07/Cheatshh"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=Cheatshh&theme=tokyonight" alt="Anirudh/Cheatshh"></a>
 <a href="https://github.com/AnirudhG07/Typeinc"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=Typeinc&theme=tokyonight"></a>
 <a href="https://github.com/AnirudhG07/ntfyme"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=ntfyme&theme=tokyonight"></a>
-<a href="https://github.com/AnirudhG07/archivemount.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=archivemount.yazi&theme=tokyonight"></a>
+<a href="https://github.com/AnirudhG07/terminal-robot"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=terminal-robot&theme=tokyonight"></a>
 
 <details> 
   <summary><h2>    and more...</h2></summary>
   <p align="left">
-<a href="https://github.com/AnirudhG07/terminal-robot"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=terminal-robot&theme=tokyonight"></a>
 <a href="https://github.com/AnirudhG07/morseet"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=morseet&theme=tokyonight"></a>
 <a href="https://github.com/AnirudhG07/LipSyncing-Project"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=LipSyncing-Project&theme=tokyonight"></a>
 <a href="https://github.com/AnirudhG07/Inventory-Management-Website"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=Inventory-Management-Website&theme=tokyonight"></a>
@@ -48,22 +47,23 @@ I wanna explore more and love doing computer coding, math, and make Terminal coo
       <details> 
   <summary><h2> yazi plugins </h2></summary>
   <p align="left">
-    <a href="https://github.com/AnirudhG07/mactags.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=mactags.yazi&theme=tokyonight"></a>
     <a href="https://github.com/AnirudhG07/rich-preview.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=rich-preview.yazi&theme=tokyonight"></a>
     <a href="https://github.com/AnirudhG07/nbpreview.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=nbpreview.yazi&theme=tokyonight"></a>
+    <a href="https://github.com/AnirudhG07/archivemount.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=archivemount.yazi&theme=tokyonight"></a>
     <a href="https://github.com/AnirudhG07/custom-shell.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=custom-shell.yazi&theme=tokyonight"></a>
-    <a href="https://github.com/AnirudhG07/cheatshh.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=cheatshh.yazi&theme=tokyonight" alt="Anirudh/cheatshh.yazi"></a>
+    <a href="https://github.com/AnirudhG07/plugins-yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=plugins-yazi&theme=tokyonight"></a>
   </p>
     </details>
 </details>
 
 # My main Colab-Projects 
+<a href="https://github.com/IISc-Software-iGEM/bept"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=IISc-Software-iGEM&repo=bept&theme=tokyonight"></a>
 <a href="https://github.com/siddhartha-gadgil/LeanAide"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhartha-gadgil&repo=LeanAide&theme=tokyonight"></a>
-<a href="https://github.com/databasedIISc/CTF-Quest"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=databasedIISc&repo=CTF-Quest&theme=tokyonight"></a>
 <details> 
   <summary><h2>    and more...</h2></summary>
   <p align="left">
-
+    
+<a href="https://github.com/databasedIISc/CTF-Quest"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=databasedIISc&repo=CTF-Quest&theme=tokyonight"></a>
 <a href="https://github.com/IISc-Software-iGEM/Ion-Channel-NCC"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=IISc-Software-iGEM&repo=Ion-Channel-NCC&theme=tokyonight"></a>
 </details>
 
@@ -73,7 +73,8 @@ I wanna explore more and love doing computer coding, math, and make Terminal coo
 <details> 
   <summary><h2>    and more...</h2></summary>
   <p align="left">
-
+    
+<a href="https://github.com/yazi-rs/plugins"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=yazi-rs&repo=plugins&theme=tokyonight"></a>
 <a href="https://github.com/toolleeo/cli-apps"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=toolleeo&repo=cli-apps&theme=tokyonight"></a>
 <a href="https://github.com/rothgar/awesome-tuis"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rothgar&repo=awesome-tuis&theme=tokyonight"></a>
 <a href="https://github.com/joaomatossilva/DateTimeExtensions"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomatossilva&repo=DateTimeExtensions&theme=tokyonight"></a>
