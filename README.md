@@ -9,7 +9,7 @@
 - I like to do research. As a hobby, I like to do command line tools dev and customising them more and more here and there!
 - I am a UG and trying my best to do as much as I can.
 - I am currently working on AutoTA, making Yazi Plugins and supporting it all the way, and learning Rust!
-- I am not funny at all, cause my jokes are nerdy and that too bad. 
+- "I am funny to chosen, randomly selected (with a nerd-biased probability distribution) individuals."
 
 I sometimes write some blogs about my work and interests, check them out at: https://anirudhg07.hashnode.dev
 <br> 
@@ -17,14 +17,15 @@ I sometimes write some blogs about my work and interests, check them out at: htt
 # My dev preferences
 ```javascript
 const anirudh = {
-  os : ['MacOS', 'Linux'],
-  terminal_emulator: ['Ghostty', 'iTerm', 'WezTerm', 'edex-ui'], //edex-ui ROCKS!
-  shell: ['zsh'], // powered by oh-my-zsh and p10k!,
+  os : ['MacOS', 'NixOS'],
+  terminal_emulator: ['Ghostty', 'Wezterm', 'edex-ui'], //edex-ui ROCKS!
+  shell: ['zsh'], // powered by Zinit!
   code_editors: ['NeoVim', 'VS Code'], // VS Code with NeoVim extension :)
-  languages: ['Python', 'C', 'Rust, 'JS', '`English`', '`Hindi`'], // LOL
+  languages: ['Python', 'Rust, 'Lean4', 'C', '`Japanese`'], // LOL
   hobbies: ["I love Terminal, CLI and TUI's. I have tons of TUI's and if something I want doesn't exist, well I am learning to make 'em",
-             "I also love doing CTF's when I feel like doing."],
-  fav_tuis: ['Lazygit', 'Yazi'], // Just my life saviour
+             "I also love doing CTF's when I feel like doing.", "I like using computational power for solving math problems."],
+  fav_tuis: ['Lazygit', 'Yazi', 'Tmux'], // Just my life saviour
+  fav_pkg_managers: ['nixpkgs', 'uv (python)']
   my_creation's: ['Cheatshh', 'Typeinc + Typeinc-mini', 'morseet', 'ntfyme']
 }
 ```
@@ -56,8 +57,9 @@ I wanna explore more and love doing computer coding, math, and make Terminal coo
     </details>
 </details>
 
-# My main Colab-Projects 
+# My main Colab/Course Projects 
 <a href="https://github.com/IISc-Software-iGEM/bept"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=IISc-Software-iGEM&repo=bept&theme=tokyonight"></a>
+<a href="https://github.com/AnirudhG07/LeanHuffmannCoding"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AnirudhG07&repo=LeanHuffmannCoding&theme=tokyonight"></a>
 <a href="https://github.com/siddhartha-gadgil/LeanAide"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhartha-gadgil&repo=LeanAide&theme=tokyonight"></a>
 <details> 
   <summary><h2>    and more...</h2></summary>
@@ -69,15 +71,18 @@ I wanna explore more and love doing computer coding, math, and make Terminal coo
 
 # My Open Source Contributions
 <a href="https://github.com/tldr-pages/tldr"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tldr-pages&repo=tldr&theme=tokyonight"></a>
-<a href="https://github.com/yazi-rs/yazi-rs.github.io"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=yazi-rs&repo=yazi-rs.github.io&theme=tokyonight"></a>
+<a href="https://github.com/sxyazi/yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sxyazi&repo=yazi&theme=tokyonight"></a>
+<a href="https://github.com/danielmiessler/fabric"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=danielmiessler&repo=fabric&theme=tokyonight"></a>
+<a href="https://github.com/ghostty-org/website"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ghostty-org&repo=website&theme=tokyonight"></a>
 <details> 
   <summary><h2>    and more...</h2></summary>
   <p align="left">
     
 <a href="https://github.com/yazi-rs/plugins"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=yazi-rs&repo=plugins&theme=tokyonight"></a>
-<a href="https://github.com/toolleeo/cli-apps"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=toolleeo&repo=cli-apps&theme=tokyonight"></a>
+<a href="https://github.com/yazi-rs/yazi-rs.github.io"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=yazi-rs&repo=yazi-rs.github.io&theme=tokyonight"></a>
 <a href="https://github.com/rothgar/awesome-tuis"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rothgar&repo=awesome-tuis&theme=tokyonight"></a>
 <a href="https://github.com/joaomatossilva/DateTimeExtensions"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomatossilva&repo=DateTimeExtensions&theme=tokyonight"></a>
+and more seriously, I can't put all...
 </details>
 
 <h3 align="left">Connect with me:</h3>
@@ -88,7 +93,7 @@ I wanna explore more and love doing computer coding, math, and make Terminal coo
 <a href="https://www.leetcode.com/anirudh_gupta07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirudh_gupta07" height="30" width="40" /></a>
 </p>
 
-> Fun Fact! I mis-referred my linkedin account Link above, which was corrected by @Demianeen xD!
+> Fun Fact! I mis-referred my linkedin account Link above, which was corrected by @Demianeen XD!
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <!-- <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p> -->
