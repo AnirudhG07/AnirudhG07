@@ -8,7 +8,7 @@
 - I am a student of Indian Institute of Science, Bengaluru.
 - I like to do research. As a hobby, I like to do command line tools dev and customising them more and more here and there!
 - I am a UG and trying my best to do as much as I can.
-- I am currently working on AutoTA, making Yazi Plugins and supporting it all the way, and learning Rust!
+- I am currently working on Autoformalization in Lean4, learning Rust and Open Source Contributions!
 - "I am funny to chosen, randomly selected (with a nerd-biased probability distribution) individuals."
 
 I sometimes write some blogs about my work and interests, check them out at: https://anirudhg07.hashnode.dev
@@ -18,11 +18,11 @@ I sometimes write some blogs about my work and interests, check them out at: htt
 ```javascript
 const anirudh = {
   os : ['MacOS', 'Nix'],
-  terminal_emulator: ['Ghostty', 'Wezterm', 'edex-ui'], //edex-ui ROCKS!
+  terminal_emulator: ['Ghostty', 'edex-ui'], //edex-ui Pretty!
   shell: ['zsh'], // powered by Zinit!
-  code_editors: ['NeoVim', 'VS Code'], // VS Code with NeoVim extension :)
+  code_editors: ['NeoVim', 'VS Code'], // VS Code with NeoVim extension obviously :)
   languages: ['Python', 'Rust, 'Lean4', 'C', '`Japanese`'], // LOL
-  hobbies: ["I love Terminal, CLI and TUI's. I have tons of TUI's and if something I want doesn't exist, well I am learning to make 'em",
+  hobbies: ["Math", "I love Terminal, CLI and TUI's. I have tons of TUI's and if something I want doesn't exist, well I am learning to make 'em",
              "I also love doing CTF's when I feel like doing.", "I like using computational power for solving math problems."],
   fav_tuis: ['Lazygit', 'Yazi', 'Tmux'], // Just my life saviour
   fav_pkg_managers: ['nixpkgs', 'uv (python)']
@@ -102,11 +102,9 @@ and more seriously, I can't put all...
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"/> <img src="https://img.shields.io/badge/Lean-white?style=for-the-badge&logo=lerna"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/uv-FDEE21?style=for-the-badge&logo=uv&logoColor=black" /> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"> <img src="https://img.shields.io/badge/NixPkgs-5277C3?style=for-the-badge&logo=nixos&logoColor=white">
 
-
 # Github love!
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudhg07&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anirudhg07" /></p>
 
 ![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirudhG07&show_icons=true&theme=tokyonight)
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhg07&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anirudhg07" /></p>
