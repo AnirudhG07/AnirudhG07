@@ -17,7 +17,7 @@ I sometimes write some blogs about my work and interests, check them out at: htt
 # My dev preferences
 ```javascript
 const anirudh = {
-  os : ['MacOS', 'NixOS'],
+  os : ['MacOS', 'Nix'],
   terminal_emulator: ['Ghostty', 'Wezterm', 'edex-ui'], //edex-ui ROCKS!
   shell: ['zsh'], // powered by Zinit!
   code_editors: ['NeoVim', 'VS Code'], // VS Code with NeoVim extension :)
@@ -40,6 +40,7 @@ I wanna explore more and love doing computer coding, math, and make Terminal coo
 <details> 
   <summary><h2>    and more...</h2></summary>
   <p align="left">
+<a href="https://github.com/AnirudhG07/awesome-yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=awesome-yazi&theme=tokyonight"></a>
 <a href="https://github.com/AnirudhG07/morseet"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=morseet&theme=tokyonight"></a>
 <a href="https://github.com/AnirudhG07/LipSyncing-Project"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=LipSyncing-Project&theme=tokyonight"></a>
 <a href="https://github.com/AnirudhG07/Inventory-Management-Website"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=Inventory-Management-Website&theme=tokyonight"></a>
@@ -49,18 +50,20 @@ I wanna explore more and love doing computer coding, math, and make Terminal coo
   <summary><h2> yazi plugins </h2></summary>
   <p align="left">
     <a href="https://github.com/AnirudhG07/rich-preview.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=rich-preview.yazi&theme=tokyonight"></a>
+    <a href="https://github.com/AnirudhG07/plugins-yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=plugins-yazi&theme=tokyonight"></a>
     <a href="https://github.com/AnirudhG07/nbpreview.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=nbpreview.yazi&theme=tokyonight"></a>
     <a href="https://github.com/AnirudhG07/archivemount.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=archivemount.yazi&theme=tokyonight"></a>
     <a href="https://github.com/AnirudhG07/custom-shell.yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=custom-shell.yazi&theme=tokyonight"></a>
-    <a href="https://github.com/AnirudhG07/plugins-yazi"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhg07&repo=plugins-yazi&theme=tokyonight"></a>
+
   </p>
     </details>
 </details>
 
 # My main Colab/Course Projects 
-<a href="https://github.com/IISc-Software-iGEM/bept"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=IISc-Software-iGEM&repo=bept&theme=tokyonight"></a>
+<a href="https://github.com/databasedIISc/deemak"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=databasedIISc&repo=deemak&theme=tokyonight"></a>
 <a href="https://github.com/AnirudhG07/LeanHuffmannCoding"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AnirudhG07&repo=LeanHuffmannCoding&theme=tokyonight"></a>
 <a href="https://github.com/siddhartha-gadgil/LeanAide"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhartha-gadgil&repo=LeanAide&theme=tokyonight"></a>
+<a href="https://github.com/IISc-Software-iGEM/bept"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=IISc-Software-iGEM&repo=bept&theme=tokyonight"></a>
 <details> 
   <summary><h2>    and more...</h2></summary>
   <p align="left">
@@ -95,8 +98,10 @@ and more seriously, I can't put all...
 
 > Fun Fact! I mis-referred my linkedin account Link above, which was corrected by @Demianeen XD!
 
-<!-- <h3 align="left">Languages and Tools:</h3> -->
-<!-- <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p> -->
+<br>
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"/> <img src="https://img.shields.io/badge/Lean-white?style=for-the-badge&logo=lerna"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/uv-FDEE21?style=for-the-badge&logo=uv&logoColor=black" /> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"> <img src="https://img.shields.io/badge/NixPkgs-5277C3?style=for-the-badge&logo=nixos&logoColor=white">
+
 
 # Github love!
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudhg07&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anirudhg07" /></p>
