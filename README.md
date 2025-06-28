@@ -14,6 +14,9 @@
 I sometimes write some blogs about my work and interests, check them out at: https://anirudhg07.hashnode.dev
 <br> 
 
+> [!Important]
+> Please ⭐ and contribute to my new repo [AnirudhG07/no-sudo-unix](https://github.com/AnirudhG07/no-sudo-unix) which shares tips and tricks on download terminal tools in Unix without sudo, anywhere. Thanks!
+
 # My dev preferences
 ```javascript
 const anirudh = {
