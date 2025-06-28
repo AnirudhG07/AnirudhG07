@@ -19,6 +19,8 @@ So picture this scenario again. You ssh into your machine, you do not have ssh. 
 Here are some solutions I discovered myself because I like, as what they say in Hindi, “jugaad”(meaning workaround fix).  
 Note that, the solutions become more better as the number increases. By the end of this, you can almost replicate your terminal workflow as it is in your local machine, WITHOUT SUDO!
 
+> Check out and ⭐ the official repository [AnirudhG07/no-sudo-unix](http://github.com/AnirudhG07/no-sudo-unix) for newer additions.
+
 ## Solution 1: Easy Way Out! But less se\*y… 😴
 
 Well, the easiest way out is, SSH through your IDE like VS Code. This is quite convenient for more users nd they like this way quite a lot, cause you have all your customizations and AI powered tools pre-installed in local VS Code instance. Install some more plugins on remote and you are done! Easy right!
