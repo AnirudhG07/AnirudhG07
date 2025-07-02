@@ -11,7 +11,7 @@
 - I am currently working on Autoformalization in Lean4, learning Rust and Open Source Contributions!
 - "I am funny to chosen, randomly selected (with a nerd-biased probability distribution) individuals."
 
-I sometimes write some blogs about my work and interests, check them out at: https://anirudhg07.hashnode.dev
+I sometimes write some blogs about my work and interests, check them out at: https://anirudhg07.hashnode.dev!
 <br> 
 
 > [!Important]
