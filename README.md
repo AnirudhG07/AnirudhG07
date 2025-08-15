@@ -95,11 +95,11 @@ and more seriously, I can't put all...
 <p align="left">
 <a href="https://www.linkedin.com/in/anirudh-gupta-45a52b295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh gupta" height="30" width="40" /></a>
 <a href="https://kaggle.com/anirudh gupta 1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudh gupta 1729" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anirudhguptacc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anirudhguptacc" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anirudhg07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anirudhg07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anirudh_gupta07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirudh_gupta07" height="30" width="40" /></a>
+<a href="https://www.buymeacoffee.com/anirudhg07" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="175"></a>  
 </p>
-
-> Fun Fact! I mis-referred my linkedin account Link above, which was corrected by @Demianeen XD!
+<br/>
 
 <br>
 
