@@ -6,7 +6,6 @@ datePublished: Fri Jan 23 2026 18:19:33 GMT+0000 (Coordinated Universal Time)
 cuid: cmkr7gjz3000502js2ars3nm9
 slug: i-lean-ed-into-formalization-first-time
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769192101145/51dd5fdc-1673-4e68-b96a-5f4cef494e01.png
-tags: lean
 
 ---
 
