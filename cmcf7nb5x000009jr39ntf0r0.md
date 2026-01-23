@@ -7,7 +7,6 @@ cuid: cmcf7nb5x000009jr39ntf0r0
 slug: working-without-sudo-in-unix-terminal
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1751052823557/ee3c78ca-ae02-4eca-b475-d4e5db16dc4c.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1751052626514/d528b157-1462-4217-84a1-fd6706ed5e2c.png
-tags: unix, terminal, shell, sudo, unixcommands
 
 ---
 
