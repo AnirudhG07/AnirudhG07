@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi! This+is+Anirudh!?&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+This+is+Anirudh!;Have+a+nice+day;&center=true&size=30">
   </a>
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhg07&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhg07" /> </p>
